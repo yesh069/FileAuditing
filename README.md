@@ -1,4 +1,3 @@
-# FileAuditing
 # Simple File and Folder Monitoring (Auditing)
 
 Foobar is a Python library for dealing with word pluralization.
